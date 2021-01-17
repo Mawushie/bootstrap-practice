@@ -1,0 +1,13 @@
+.firstcon{
+    background-color:ghostwhite;
+    margin: 5rem;
+}
+
+.secondcon, .thirdcon{
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+img{
+    margin-bottom: 3rem;
+}

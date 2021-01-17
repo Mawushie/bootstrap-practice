@@ -1,0 +1,8 @@
+h2{
+	background-color: lightgray;
+	height: 100px;
+	border: solid 1px grey; 
+	text-align: center;
+	font-weight: normal;
+	padding: 30px;
+}
